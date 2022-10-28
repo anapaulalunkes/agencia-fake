@@ -1,0 +1,37 @@
+@media screen and (max-width:1005px){
+    .navbar{
+        position: relative;
+    }
+    .menu{
+        display: none;
+    }
+    .logo h1{
+        margin: 0;
+        text-align: center;
+    }
+    .principal{
+        padding-top:50px;
+    }
+    .principal-texto{
+        flex:100%;
+        margin:5%;
+        text-align:center;
+    }
+    .principal-texto-p{
+        text-align:center;
+    }
+    .principal-imagem{
+        flex:100%;
+        margin:5%;
+        text-align:center;
+    }
+
+    .cards{
+        width:100%;
+    }
+
+    .whats{
+        width: 40px;
+    }
+
+}
